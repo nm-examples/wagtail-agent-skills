@@ -1,7 +1,7 @@
 ---
 name: wagtail-backend
 description: Implement and review Wagtail backend behavior using Django and Python practices. Use for page queries, search, routing, permissions, revisions, snippets, forms, workflows, signals, data migrations, or backend performance. Focus on runtime correctness and data integrity; use content-modeling guidance for schema design and frontend guidance for rendered UI.
-BSD-3-Clause
+license: BSD-3-Clause
 ---
 
 # Wagtail backend development

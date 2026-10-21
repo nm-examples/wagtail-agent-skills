@@ -1,7 +1,7 @@
 ---
 name: wagtail-frontend
 description: Build and improve Wagtail frontend templates, HTML, CSS, and media rendering. Use for StreamField or rich text output, accessible navigation and forms, responsive images, page metadata, multilingual links, sitemaps, frontend performance and sustainability, or SEO and generative engine optimization (GEO). Apply to the rendered website and editor previews, not Wagtail admin UI customization.
-BSD-3-Clause
+license: BSD-3-Clause
 ---
 
 # Wagtail frontend development

@@ -1,7 +1,7 @@
 ---
 name: wagtail-content-modeling
 description: Design and evolve Wagtail content models and editor interfaces. Use when choosing page types, page tree rules, snippets or settings; adding model fields, inline relations, StreamField blocks or rich text; improving block groups, icons, previews and settings; or migrating existing content structures. For rendering-only changes, use frontend guidance instead.
-BSD-3-Clause
+license: BSD-3-Clause
 ---
 
 # Wagtail content modeling

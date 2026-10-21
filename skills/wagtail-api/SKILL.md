@@ -1,7 +1,7 @@
 ---
 name: wagtail-api
 description: Configure, extend, consume, and debug Wagtail's v3 API. Use when mounting v3 routes, exposing readable or writable fields, discovering schemas, serializing StreamField and rich text, building headless clients, or integrating authenticated CMS operations. Applies to API v3 integrations, not API v2, GraphQL, or unrelated Django APIs.
-BSD-3-Clause
+license: BSD-3-Clause
 ---
 
 # Wagtail API v3
