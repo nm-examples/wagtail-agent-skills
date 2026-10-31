@@ -39,7 +39,7 @@ Apply the sections relevant to the requested integration.
 | Framework           | [Django Ninja](https://django-ninja.dev/)                            |
 | Core operations     | Reads and authenticated CMS writes                                   |
 | List response       | `{"count": N, "items": [...]}`                                       |
-| Field selection     | Fixed generated schemas.o `?fields=` projection                      |
+| Field selection     | Fixed generated schemas; no `?fields=` projection                    |
 | Custom model fields | `APIField` for reads; explicitly writable editable fields for writes |
 | Discovery           | `/openapi.json`, `/docs/`, authenticated `/schema/`                  |
 
